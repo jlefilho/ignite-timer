@@ -28,7 +28,7 @@ export const HistoryList = styled.div`
     th {
         background-color: ${props => props.theme['gray-600']};
         padding: 1rem;
-        text-align: center;
+        text-align: left;
         color: ${props => props.theme['gray-100']};
         font-size: 0.875rem;
         line-height: 1.6;
